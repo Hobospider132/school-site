@@ -27,6 +27,11 @@ header {
     right: 0;
     height: 50px;
     line-height: 50px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
 }
 
 header * {
@@ -42,5 +47,20 @@ main {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: white;
+    color: darkgreen;
 }
+
+main h1, h2 {
+    font-size:3em;
+    font-weight: 5em;
+    font: bold;
+}
+
+main p {
+    font-size: 2em;
+    font-weight: 4em;
+    font: bold;
+}
+
+.link { color: #ffffff; } 
+.link:hover { color: #000000; } 
