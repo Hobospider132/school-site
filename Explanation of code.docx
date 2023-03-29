@@ -25,3 +25,6 @@ errors fixed:
 - added character encoding
 - fixed error with <li> being used in navbar
 - fixed stray style tag
+- added lang declaration
+- add alt attribute 
+- fixed font weights
