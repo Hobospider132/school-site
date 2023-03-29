@@ -18,3 +18,10 @@ It was impressive website for a new person. There were videos and ingredient cle
 Atharva:
 
 It was a decent website with helpful purposes. It is an idea with a large potential if worked on and perfected. I also like the fact that you have some pre-added recipes that explain the process and ingredients to the very last detail.
+
+errors fixed:
+
+- added title
+- added character encoding
+- fixed error with <li> being used in navbar
+- fixed stray style tag
