@@ -6,4 +6,15 @@ To add a row to the table, you need to use the opening and closing row tags, <tr
 Proposal Vs. Completed idea:
 
 The proposal was to create a website with a navbar, video, and ingredients list as well as the recipe on how to prepare it. This is what was created however 
-The site was built as intended however, 
+The site was built as intended however, I added an extra feature with the link changing colour when hovered over and placing the recipe on the within a div.
+I have tested the site in a monitor with 1080x1980 and a monitor with 17736x1300, the page was fine however, for the second monitor, the page shrunk.
+I tested the site in Brave and in Microsoft Edge, there were no differences.
+Students surveyed:
+
+Sohum: 
+
+It was impressive website for a new person. There were videos and ingredient clearly stated. It is very easy to read and clear instructions on how to make food. The introduction was perfect, it shows how passionate they were about cooking. Something extra adding the finishing product is perfect for comparing the food you made.  
+
+Atharva:
+
+It was a decent website with helpful purposes. It is an idea with a large potential if worked on and perfected. I also like the fact that you have some pre-added recipes that explain the process and ingredients to the very last detail.
